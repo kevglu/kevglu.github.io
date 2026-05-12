@@ -1,10 +1,10 @@
 # Kevin Glück
 
-[## Profile] #
-[Picture] #
+ [## Profile]: #
+ [Picture]: #
 
 ## Curriculum Vitae
-- [en](cv/GLUECK_CV_DE.md)
+- [en](cv/GLUECK_CV_EN.md)
 - [dt](cv/GLUECK_CV_DE.md)
 
 ## Publications
