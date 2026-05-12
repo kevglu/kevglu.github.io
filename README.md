@@ -1,6 +1,7 @@
 # Kevin Glück
 
 [## Profile] #
+[Picture] #
 
 ## Curriculum Vitae
 - [en](cv/GLUECK_CV_DE.md)
@@ -8,6 +9,9 @@
 
 ## Publications
 - Inheritance Taxation, Unemployment, and Asset Pricing in Frictional Labour Markets, 2023, Disseration, [http://dx.doi.org/10.17877/DE290R-23162](http://dx.doi.org/10.17877/DE290R-23162).
+
+## Projects
+- forthcoming
 
 ## Korfball
 For over 26 years I play Korfball, I worked as a coach, I organized tournaments at home and trips to tournaments abroad. Korfball is a quite obscure mixed-gender team sport, designed by a Dutch school teacher, and still popular in the Netherlands and Belgium. 
