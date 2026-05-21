@@ -1,6 +1,6 @@
 # Site Settings
 title: Kevin Glück
-email: gevin.glueck@gmx.de
+email: kevin.glueck@gmx.de
 description: > # Hier kannst du einen längeren Beschreibungstext einfügen
   Kevin Glück's Homepage. 
 
@@ -9,7 +9,7 @@ url: "https://kevglu.github.io" # Die Basis-URL (ohne abschließenden Schrägstr
 baseurl: ""                   # Leer lassen, wenn die Seite unter der Root-Domain läuft
 
 # Build-Einstellungen
-theme: slate                 # Das verwendete Jekyll-Theme
+theme: jekyll-theme-slate                 # Das verwendete Jekyll-Theme
 markdown: kramdown            # Der Markdown-Parser
 permalink: pretty             # Erzeugt saubere URLs (z.B. /ueber-uns/ statt /ueber-uns.html)
 
