@@ -1,4 +1,3 @@
-# Kevin Glück
 
  [## Profile]: #
  [Picture]: #
