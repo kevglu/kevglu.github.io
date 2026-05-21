@@ -9,7 +9,7 @@ url: "https://kevglu.github.io" # Die Basis-URL (ohne abschließenden Schrägstr
 baseurl: ""                   # Leer lassen, wenn die Seite unter der Root-Domain läuft
 
 # Build-Einstellungen
-theme: slate                 # Das verwendete Jekyll-Theme
+theme: jekyll/slate                 # Das verwendete Jekyll-Theme
 markdown: kramdown            # Der Markdown-Parser
 permalink: pretty             # Erzeugt saubere URLs (z.B. /ueber-uns/ statt /ueber-uns.html)
 
