@@ -15,13 +15,13 @@ plugins:
 markdown: kramdown            # Der Markdown-Parser
 permalink: pretty             # Erzeugt saubere URLs (z.B. /ueber-uns/ statt /ueber-uns.html)
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "default"
+# defaults:
+#   -
+#     scope:
+#       path: "" # an empty string here means all files in the project
+#       type: "posts" # previously `post` in Jekyll 2.2.
+#     values:
+#       layout: "default"
 
 # Ausschlüsse (Dateien oder Ordner, die Jekyll beim Generieren ignorieren soll)
 exclude:
