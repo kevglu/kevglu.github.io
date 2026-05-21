@@ -15,6 +15,7 @@ plugins:
 markdown: kramdown            # Der Markdown-Parser
 permalink: pretty             # Erzeugt saubere URLs (z.B. /ueber-uns/ statt /ueber-uns.html)
 
+# This gives you ability to change layout of a type of page (here posts) or files in a folder
 # defaults:
 #   -
 #     scope:

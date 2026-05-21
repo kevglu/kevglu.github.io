@@ -6,7 +6,7 @@
 - LinkedIn: [kevin-glueck-a981b995](https://linkedin.com/in/kevin-glueck-a981b995)
 
 
-# Profil
+# Profile
 Data Scientist with a PhD in Economics and practical experience in predictive modeling, A/B testing, and data-driven decision-making. Strong focus on Python, statistical modeling, translating complex analyses into actionable recommendations, and stakeholder communication.
 
 # Professional Experience
