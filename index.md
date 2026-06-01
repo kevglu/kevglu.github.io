@@ -1,6 +1,6 @@
 
  [## Profile]: #
- [Picture]: "/assets/images/DSC04077.JPG"
+ Picture: "/assets/images/DSC04077.JPG"
 
 ## Curriculum Vitae
 - [en](cv/GLUECK_CV_EN.md)
