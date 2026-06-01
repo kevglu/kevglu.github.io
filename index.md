@@ -1,7 +1,7 @@
 
  [## Profile]: #
-# ![Picture](/assets/images/DSC04077.JPG): #
-<img src="/assets/images/DSC04077.jpg" alt="Banner" style="width:100%; border-radius:6px; margin-bottom:1.5rem;">
+![Picture](/assets/images/DSC04077.JPG) # 
+<img src="/assets/images/DSC04077.JPG" alt="sicily" width="200"/>
 
 
 ## Curriculum Vitae
