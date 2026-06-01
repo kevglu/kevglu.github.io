@@ -24,6 +24,15 @@ permalink: pretty             # Erzeugt saubere URLs (z.B. /ueber-uns/ statt /ue
 #     values:
 #       layout: "default"
 
+# Navigation bar links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+
 # Ausschlüsse (Dateien oder Ordner, die Jekyll beim Generieren ignorieren soll)
 exclude:
   - Gemfile
