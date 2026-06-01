@@ -1,7 +1,7 @@
 
  [## Profile]: #
-# ![Picture](/assets/images/DSC04077.JPG) # 
-<img src="/assets/images/DSC04077.JPG" alt="sicily" width="200"/>
+[comment]: <> (![Picture](/assets/images/DSC04077.JPG) )
+<img src="/assets/images/DSC04077.JPG" alt="sicily" width="80%"/>
 
 
 ## Curriculum Vitae
