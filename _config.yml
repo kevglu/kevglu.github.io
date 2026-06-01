@@ -28,10 +28,10 @@ permalink: pretty             # Erzeugt saubere URLs (z.B. /ueber-uns/ statt /ue
 nav_links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  # - title: About
+  #   url: /about/
   - title: Blog
-    url: /blog/
+    url: /_posts/
 
 # Ausschlüsse (Dateien oder Ordner, die Jekyll beim Generieren ignorieren soll)
 exclude:
